@@ -1,0 +1,6 @@
+{
+  "name": "Vinayaka Hospital Srinagar",
+  "description": "A modern, mobile-responsive fully functional hospital website for Vinayaka Hospital in Srinagar, featuring comprehensive medical specialties, a search-and-filter doctor directory, contact details, and a persistent interactive appointment booking and tracking system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
